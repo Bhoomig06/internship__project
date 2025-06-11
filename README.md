@@ -1,1 +1,1 @@
-# internship__project
+# internship__projects
